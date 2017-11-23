@@ -1,0 +1,5 @@
+swisscoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/swisscoin-qt.desktop usr/share/applications
+debian/swisscoin-qt.protocol usr/share/kde4/services/

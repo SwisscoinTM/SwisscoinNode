@@ -1,0 +1,9 @@
+Building Swisscoin
+
+See doc/readme-qt.rst for instructions on building Swisscoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Swisscoin.
+
+See doc/build-*.txt for instructions on building swisscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Swisscoin.

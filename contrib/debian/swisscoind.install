@@ -1,0 +1,2 @@
+debian/bin/swisscoind usr/bin
+src/swisscoind usr/lib/swisscoin
